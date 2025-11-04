@@ -12,6 +12,11 @@ It includes experiments for real-time melody co-writing and analysis of creative
 - Model comparison and evaluation tools  
 - Ready for ISMIR-style reproducibility (Python 3.8+)
 
+### Model
+- [`stanford-crfm/music-small-800k`](https://huggingface.co/stanford-crfm/music-small-800k)
+- Autoregressive transformer trained on 800k MIDI sequences
+- Hosted via HuggingFace Transformers
+
 ## Quick Start
 
 1. **Clone the repository**
