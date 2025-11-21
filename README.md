@@ -1,4 +1,4 @@
-# AI-Human-Co-Creation-Project-Planned-Pilot
+# Human–AI Co-Creation in Melody Writing: A MIDI-Native Pilot on Flow, Authorship, and Control
 
 # Human–AI Co-Creation in Melody Writing
 Pilot for my Human-AI Co-Creation Project
